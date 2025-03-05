@@ -42,4 +42,4 @@ Currently studying at Hdu, I specialize in computer science. My journey in codin
 
 ## Connect with Me
 
-[cnblogs](https://www.cnblogs.com/zhywyt/) [homepage](https://zhywyt.github.io) [Email](zhywyt@yeah.net)
+[cnblogs](https://www.cnblogs.com/zhywyt/) [homepage](https://zhywyt.github.io) Email : zhywyt@yeah.net

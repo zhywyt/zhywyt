@@ -24,7 +24,7 @@ Currently studying at Hdu, I specialize in computer science. My journey in codin
 
 ## Skills & Technologies
 
-cpp,cs,c,html,css,unity,vscode,visualstudio,vim,linux,ubuntu,debian,git,github,md,js,nginx,anaconda,qt,nodejs,docker
+![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,html,css,unity,vscode,visualstudio,vim,linux,ubuntu,debian,git,github,md,js,nginx,anaconda,qt,nodejs,docker)
 
 ## Top Projects
 
@@ -38,17 +38,8 @@ cpp,cs,c,html,css,unity,vscode,visualstudio,vim,linux,ubuntu,debian,git,github,m
 Public Repositories: **21**  |  Followers: **4**  |  Following: **10**  
 ![GitHub Stats](https://img.shields.io/badge/Public%20Repos-21-blue) ![Followers](https://img.shields.io/badge/Followers-4-green) ![Following](https://img.shields.io/badge/Following-10-orange)
 
-## Recent Activity
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhywyt&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-- Pushed to [redecode](https://github.com/zhywyt/redecode) - add base version
-- Created [games101HomeWork](https://github.com/zhywyt/games101HomeWork)
-- Started watching [MrEngine](https://github.com/Dylan132956/MrEngine)
-- Opened an issue in [wave-snippets](https://github.com/mwood23/wave-snippets)
-- Started watching [diffani](https://github.com/meowtec/diffani)
-
-## Latest Blog Posts
-
-Check out my articles on [Cnblogs](https://www.cnblogs.com/zhywyt/) for insights and updates on my learning journey.
 
 ## Connect with Me
 

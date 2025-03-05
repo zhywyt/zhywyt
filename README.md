@@ -35,7 +35,6 @@ Currently studying at Hdu, I specialize in computer science. My journey in codin
 
 ## GitHub Stats
 
-Public Repositories: **21**  |  Followers: **4**  |  Following: **10**  
 ![GitHub Stats](https://img.shields.io/badge/Public%20Repos-21-blue) ![Followers](https://img.shields.io/badge/Followers-4-green) ![Following](https://img.shields.io/badge/Following-10-orange)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhywyt&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

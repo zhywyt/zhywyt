@@ -26,12 +26,6 @@ Currently studying at Hdu, I specialize in computer science. My journey in codin
 
 ![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,html,css,unity,vscode,visualstudio,vim,linux,ubuntu,debian,git,github,md,js,nginx,anaconda,qt,nodejs,docker)
 
-## Top Projects
-
-- [redecode](https://github.com/zhywyt/redecode) - A tool to decode text to UTF-8. ⭐️ 0 Stars | Language: Python
-- [games101HomeWork](https://github.com/zhywyt/games101HomeWork) - My assignments for Games 101. ⭐️ 1 Star | Language: C++
-- [Beetle-run](https://github.com/zhywyt/Beetle-run) - Related code and documentation for Beetle run club. ⭐️ 0 Stars | Language: C++
-- [WeChatMsg](https://github.com/zhywyt/WeChatMsg) - Extracts WeChat chat records and exports them as HTML or Word documents. ⭐️ 0 Stars | Language: (Forked)
 
 ## GitHub Stats
 

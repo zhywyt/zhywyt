@@ -21,6 +21,15 @@ I'm **zhywyt**, a dedicated computer science student at Hdu. I'm passionate abou
 ## About Me
 
 Currently studying at Hdu, I specialize in computer science. My journey in coding has led me to explore various languages and technologies, and I'm excited to share my projects and collaborate with others.
+- 💬 Ask me about:
+  - [Orienteering](https://en.wikipedia.org/wiki/Orienteering). Checkout our home page! [hdudx](https://hdudx.github.io)
+  - [Rendering](https://en.wikipedia.org/wiki/Rendering_(computer_graphics))
+  - Inference optimization of [LLM](https://en.wikipedia.org/wiki/Large_language_model)
+- 📫 How to reach me:
+  - The best blog site : [cnblogs](https://www.cnblogs.com/zhywyt/)
+  - The homepage of myself : [homepage](https://zhywyt.github.io)
+  - Our homepage of orienteering team : [hdudx](https://hdudx.github.io)
+  - Email : zhywyt@yeah.net
 
 ## Skills & Technologies
 
@@ -31,9 +40,5 @@ Currently studying at Hdu, I specialize in computer science. My journey in codin
 
 ![GitHub Stats](https://img.shields.io/badge/Public%20Repos-21-blue) ![Followers](https://img.shields.io/badge/Followers-4-green) ![Following](https://img.shields.io/badge/Following-10-orange)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhywyt&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![zhywyt's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhywyt)](https://github.com/anuraghazra/github-readme-stats)
 
-
-## Connect with Me
-
-[cnblogs](https://www.cnblogs.com/zhywyt/) [homepage](https://zhywyt.github.io) Email : zhywyt@yeah.net
